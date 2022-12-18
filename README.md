@@ -1,5 +1,7 @@
 # Samsung Innovation Campus - 2022
 
+[![wakatime](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/eae23555-57f7-45b5-95e9-0e15c0a6ce4a.svg?style=for-the-badge)](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/eae23555-57f7-45b5-95e9-0e15c0a6ce4a)
+
 Curso de programación y codificación con Python. Una alianza de:
 
 - Escuela de administración
