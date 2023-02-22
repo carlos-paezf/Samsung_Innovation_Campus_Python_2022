@@ -21,6 +21,8 @@ Curso de programación y codificación con Python. Una alianza de:
     - Unidad 07: [Sentencias  condicionales - 2. Tomando decisiones en dos direcciones y aplicación de declaraciones condicionales](Unidad_07.ipynb)
     - Unidad 08: [Bucle-1](Unidad_08.ipynb)
     - Unidad 09: [Bucle-2](Unidad_09.ipynb)
+
+  - Capitulo 02: Programación básica de Python - Tipos de datos de secuencia en Python
     - Unidad 10: [Tipos de datos: lista y tupla](Unidad_10.ipynb)
     - Unidad 11: [Tipos de datos: diccionario](Unidad_11.ipynb)
     - Unidad 12: [Tipos de datos: secuencia](Unidad_12.ipynb)
@@ -28,19 +30,28 @@ Curso de programación y codificación con Python. Una alianza de:
     - Unidad 14: [Diccionario: Método 1](Unidad_14.ipynb)
     - Unidad 15: [Diccionario: Método 2](Unidad_15.ipynb)
     - Unidad 16: [Tipos de datos: Set](Unidad_16.ipynb)
+
+  - Capitulo 03: Programación eficaz en Python: Función, Clausura y Clase
     - Unidad 17: [Función](Unidad_17.ipynb)
     - Unidad 18: [Llamado Recursivo de una Función](Unidad_18.ipynb)
     - Unidad 19: [Lambda](Unidad_19.ipynb)
     - Unidad 20: [Clausura](Unidad_20.ipynb)
     - Unidad 21: [Clase](Unidad_21.ipynb)
+
+- Módulo 02:
+  - Capitulo 04: Algoritmos 1 - Estructuras de datos
     - Unidad 22: [Stack](Unidad_22.ipynb)
     - Unidad 23: [Queue](Unidad_23.ipynb)
     - Unidad 24: [Búsqueda Secuencial](Unidad_24.ipynb)
     - Unidad 25: [Búsqueda Binaria](Unidad_25.ipynb)
     - Unidad 26: [Tabla Hash](Unidad_26.ipynb)
+
+  - Capitulo 05: Algoritmos 2 - Algoritmos de Ordenamiento
     - Unidad 27: [Ordenamiento por burbuja, selección e inserción](Unidad_27.ipynb)
     - Unidad 28: [Ordenamiento por mezcla (Merge Sort)](Unidad_28.ipynb)
     - Unidad 29: [Ordenamiento rápido (Quick Sort)](Unidad_29.ipynb)
+
+  - Capitulo 06: Algoritmos 3 - Resolución de problemas con algoritmos
     - Unidad 30: [El algoritmo voraz (greedy approach)](Unidad_30.ipynb)
     - Unidad 31: [El método divide y vencerás (divide-and-conquer)](Unidad_31.ipynb)
     - Unidad 32: [El método de programación dinámica](Unidad_32.ipynb)
