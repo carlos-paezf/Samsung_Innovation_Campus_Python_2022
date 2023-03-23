@@ -56,3 +56,14 @@ Curso de programación y codificación con Python. Una alianza de:
     - Unidad 31: [El método divide y vencerás (divide-and-conquer)](./Modulo_02/Capitulo_06/Unidad_31.ipynb)
     - Unidad 32: [El método de programación dinámica](./Modulo_02/Capitulo_06/Unidad_32.ipynb)
     - Unidad 33: [El método vuelta atrás (backtracking)](./Modulo_02/Capitulo_06/Unidad_33.ipynb)
+
+  - Capitulo 07: Procesamiento de datos, estadísticas descriptivas y visualización de datos
+    - Unidad 34: [Uso de módulos en Python](./Modulo_03/Capitulo_07/Unidad_34.ipynb)
+    - Unidad 35: [Serie Pandas para el procesamiento de datos](./Modulo_03/Capitulo_07/Unidad_35.ipynb)
+    - Unidad 36: [Pandas DataFrame para el procesamiento de datos](./Modulo_03/Capitulo_07/Unidad_36.ipynb)
+    - Unidad 37: [Ordenamiento de datos (data tidying)](./Modulo_03/Capitulo_07/Unidad_37.ipynb)
+    - Unidad 38: [Datos de series de tiempo](./Modulo_03/Capitulo_07/Unidad_38.ipynb)
+
+  - Capitulo 08: Mini proyecto de análisis y visualización de datos
+    - Unidad 39: [Miniproyecto de análisis de datos financieros](./Modulo_03/Capitulo_08/Unidad_39.ipynb)
+    - Unidad 40: [Miniproyecto de análisis de de la pandemia de COVID-19](./Modulo_03/Capitulo_08/Unidad_40.ipynb)
