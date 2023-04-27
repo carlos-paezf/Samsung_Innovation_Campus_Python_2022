@@ -57,6 +57,7 @@ Curso de programación y codificación con Python. Una alianza de:
     - Unidad 32: [El método de programación dinámica](./Modulo_02/Capitulo_06/Unidad_32.ipynb)
     - Unidad 33: [El método vuelta atrás (backtracking)](./Modulo_02/Capitulo_06/Unidad_33.ipynb)
 
+- Módulo 03:
   - Capitulo 07: Procesamiento de datos, estadísticas descriptivas y visualización de datos
     - Unidad 34: [Uso de módulos en Python](./Modulo_03/Capitulo_07/Unidad_34.ipynb)
     - Unidad 35: [Serie Pandas para el procesamiento de datos](./Modulo_03/Capitulo_07/Unidad_35.ipynb)
