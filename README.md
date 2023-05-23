@@ -68,3 +68,7 @@ Curso de programación y codificación con Python. Una alianza de:
   - Capitulo 08: Mini proyecto de análisis y visualización de datos
     - Unidad 39: [Miniproyecto de análisis de datos financieros](./Modulo_03/Capitulo_08/Unidad_39.ipynb)
     - Unidad 40: [Miniproyecto de análisis de de la pandemia de COVID-19](./Modulo_03/Capitulo_08/Unidad_40.ipynb)
+
+- IA: Principios y Fundamentos
+  - Capitulo 01: [Introducción a la Inteligencia Artificial](IA-Principios_Fundamentos/Chapter%201AI.ipynb)
+  - Capitulo 02: [Matemáticas para Ciencia de Datos](IA-Principios_Fundamentos/Chapter%202AI.ipynb)
